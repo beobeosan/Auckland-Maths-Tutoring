@@ -25,23 +25,30 @@ It showcases tutoring services, subjects offered, booking options, and student t
 
 ---
 
+
+```markdown
 ## ⚙️ How to Run
 
 1. Clone the repository:
    ```bash
-   git@github.com:beobeosan/Auckland-Maths-Tutoring.git
+   git clone git@github.com:beobeosan/Auckland-Maths-Tutoring.git
    cd Auckland-Maths-Tutoring
-Install dependencies:
+```
 
-```bash
-npm install
-Start the development server:
-
-```bash
-npm run dev
-Open the local server link shown in the terminal (usually http://localhost:5173) in your browser.
-
-
+2. Install dependencies:
+    
+    ```bash
+    npm install
+    ```
+    
+3. Start the development server:
+    
+    ```bash
+    npm run dev
+    ```
+    
+4. Open the local server link shown in the terminal (usually `http://localhost:5173`) in your browser.
+    
 
 ## 🔗 Links
 - 🌐 [Live Demo](https://auckland-maths-tutoring.vercel.app/)  
