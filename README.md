@@ -51,7 +51,7 @@ It showcases tutoring services, subjects offered, booking options, and student t
     
 
 ## 🔗 Links
-- 🌐 <a href="https://your-live-demo-link.com" target="_blank">Live Demo</a>  
+- 🌐 <a href="https://auckland-maths-tutoring.vercel.app/" target="_blank">Live Demo</a>  
 - 👤 <a href="https://www.linkedin.com/in/expandaaa/" target="_blank">LinkedIn</a>  
 - 💬 <a href="https://t.me/EXPANDAA" target="_blank">Telegram</a>
 
