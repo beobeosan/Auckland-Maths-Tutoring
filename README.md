@@ -10,7 +10,7 @@ It showcases tutoring services, subjects offered, booking options, and student t
 - 📚 **Subjects Sections** — NCEA, IB, Cambridge, General Maths
 - 📝 **Student Reviews** — testimonials from past students
 - 📩 **Booking Section** — easy way to contact and book sessions
-- ⚡ **Lightweight & Fast** — pure HTML + CSS, no frameworks required
+- ⚡ **Lightweight & Fast** — pure HTML + TailwindCSS
 
 ---
 
