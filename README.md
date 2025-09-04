@@ -27,8 +27,9 @@ It showcases tutoring services, subjects offered, booking options, and student t
 
 
 ## ⚙️ How to Run
-```markdown
+
 1. Clone the repository:
+```markdown
 
    git clone git@github.com:beobeosan/Auckland-Maths-Tutoring.git
    cd Auckland-Maths-Tutoring
