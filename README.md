@@ -15,12 +15,11 @@ It showcases tutoring services, subjects offered, booking options, and student t
 ---
 
 ## 📂 Project Structure
-.
-├── index.html # Main entry point
-├── math.css # Extra styles
-├── public/ # Images 
-└── README.md # Project documentation
 
+├── index.html # Main entry point   
+├── math.css # Extra styles  
+├── public/ # Images  
+└── README.md # Project documentation
 
 
 ---
